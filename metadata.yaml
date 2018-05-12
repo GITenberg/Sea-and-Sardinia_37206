@@ -1,0 +1,39 @@
+_repo: Sea-and-Sardinia_37206
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Juta, Jan
+    gutenberg_agent_id: '38709'
+    url: http://www.gutenberg.org/2009/agents/38709
+covers:
+- cover_type: archival
+  image_path: 37206-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, David Herbert
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37206'
+  lccn: '22001381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lawrence, D. H. (David Herbert), 1885-1930 -- Travel -- Italy -- Sardinia'
+- !lcc 'DG'
+- !lcsh 'Sardinia (Italy) -- Description and travel'
+title: Sea and Sardinia
+url: http://www.gutenberg.org/ebooks/37206
